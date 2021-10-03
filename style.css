@@ -1,0 +1,16 @@
+.collapse a:hover {
+  background-color: rgb(219, 250, 250);
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(219, 250, 250);
+}
+
+#projects {
+  background-color: rgb(219, 250, 250);
+}
+
+section {
+  padding-top: 6rem;
+}
